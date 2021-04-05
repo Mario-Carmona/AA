@@ -96,7 +96,7 @@ plt.xlim(x_min, x_max)
 plt.ylim(y_min, y_max)
 
 # Centramos la gráfica según los nuevos límites indicados
-# en las fuciones anteriores
+# en las funciones anteriores
 plt.xticks(())
 plt.yticks(())    
 
